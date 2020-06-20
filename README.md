@@ -7,7 +7,7 @@ note: modify the DBConn.php to link it to your mySQL database.
 Start the website by navigating to myShop.php on your browser.
 
 This is the main page which is displayed when myShop.php is executed
-![Online Store](Screenshots/store.png)
+![Online Store](Screenshots/store.PNG)
 
 This screenshot demonstates when a user adds items to the shopping cart without logging in.
 ![Shopping cart before user logged in](Screenshots/shopping%20cart.png)
